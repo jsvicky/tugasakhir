@@ -1,0 +1,59 @@
+
+    </div>
+    <br/>
+    <br/>
+        <br/>
+    <br/>
+    <br/>
+    <center>
+    <h2>Layanan Spesial</h2>
+    <hr></center>
+    <div class="space"></div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Membersihkan Matras</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service">
+        <h4>Membersihkan Sofa</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> 
+       <h4>Membersihkan Karpet</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Membersihkan Gordyn</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque.</p>
+      </div>
+    </div>
+    <br/>
+    <br/>
+    <br/>
+     <br/>
+    <br/>
+      <center>
+    <h2>Layanan Setrika</h2>
+    <hr></center>
+    <div class="space"></div>
+    <div class="row">
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Rapi</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Bersih</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Teliti</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam.</p>
+      </div>
+      <div class="col-md-3 col-sm-6 service"> 
+        <h4>Hemat Waktu</h4>
+        <p>Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque.</p>
+      </div>
+      </div>
+  </div>
+  </div>
+</div>
